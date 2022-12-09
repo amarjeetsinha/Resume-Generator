@@ -1,0 +1,45 @@
+
+#printfin{
+	display: none;
+}
+
+#resume-template{
+	display: none; 
+}
+
+
+div #resume-template{
+	border: thin;
+}
+
+.card-header{
+	background-color: lightsteelblue;
+}
+
+.r1 {
+	background-color: lightsteelblue;
+}
+
+.social{
+	padding: 2px 4px 2px 4px;
+	color: black;
+	text-decoration: none;
+}
+
+.social:hover{
+	background-color: rgb(43, 44, 44);
+	padding: 2px 4px 2px 4px;
+	font-size:150%;
+	color: lightsteelblue;
+	text-decoration: none;
+}
+
+.r2 p{
+	text-align: justify;
+}
+
+#dp{
+	border-radius: 50%;
+	width: 185px;
+	height: auto;
+}
